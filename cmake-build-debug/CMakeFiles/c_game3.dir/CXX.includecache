@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/easyx.h
+windows.h
+-
+tchar.h
+-
+
+../include/graphics.h
+easyx.h
+-
+
+C:/Users/ethanyi/CLionProjects/c_game3/main.cpp
+graphics.h
+-
+Windows.h
+-
+stdlib.h
+-
+conio.h
+-
+stdio.h
+-
+time.h
+-
+

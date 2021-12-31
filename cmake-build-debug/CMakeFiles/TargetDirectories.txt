@@ -1,0 +1,3 @@
+C:/Users/ethanyi/CLionProjects/c_game3/cmake-build-debug/CMakeFiles/c_game3.dir
+C:/Users/ethanyi/CLionProjects/c_game3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ethanyi/CLionProjects/c_game3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
